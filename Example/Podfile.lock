@@ -1,0 +1,16 @@
+PODS:
+  - Hobbit (0.1.0)
+
+DEPENDENCIES:
+  - Hobbit (from `../`)
+
+EXTERNAL SOURCES:
+  Hobbit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hobbit: 5f219913cd77b501cc6e4a591fda7aecc9fe3e4b
+
+PODFILE CHECKSUM: b34e227ff34606c6b84a2b7fb365c3a8f5281b92
+
+COCOAPODS: 1.1.1
