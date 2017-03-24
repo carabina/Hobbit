@@ -1,14 +1,14 @@
 # Hobbit
 
-[![Version](https://img.shields.io/cocoapods/v/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
-[![License](https://img.shields.io/cocoapods/l/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
-[![Platform](https://img.shields.io/cocoapods/p/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
+[![Version](https://img.shields.io/cocoapods/v/Hobbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
+[![License](https://img.shields.io/cocoapods/l/Hobbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
+[![Platform](https://img.shields.io/cocoapods/p/Hobbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
 
 This is a simple library for making it easier to access bits and bytes.
 
 ## Installation
 
-Orbit is available through [CocoaPods](http://cocoapods.org). To install
+Hobbit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
