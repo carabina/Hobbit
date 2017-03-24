@@ -1,9 +1,8 @@
-# Orbit
+# Hobbit
 
-[![CI Status](http://img.shields.io/travis/ed185178837aa0c447ba7f72d19c072d82d062d7/Orbit.svg?style=flat)](https://travis-ci.org/ed185178837aa0c447ba7f72d19c072d82d062d7/Orbit)
-[![Version](https://img.shields.io/cocoapods/v/Orbit.svg?style=flat)](http://cocoapods.org/pods/Orbit)
-[![License](https://img.shields.io/cocoapods/l/Orbit.svg?style=flat)](http://cocoapods.org/pods/Orbit)
-[![Platform](https://img.shields.io/cocoapods/p/Orbit.svg?style=flat)](http://cocoapods.org/pods/Orbit)
+[![Version](https://img.shields.io/cocoapods/v/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
+[![License](https://img.shields.io/cocoapods/l/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
+[![Platform](https://img.shields.io/cocoapods/p/Orbit.svg?style=flat)](http://cocoapods.org/pods/Hobbit)
 
 This is a simple library for making it easier to access bits and bytes.
 
@@ -49,4 +48,4 @@ guard let name = reader.readString(bytes: 3, encoding: .nonLossyASCII) else { re
 
 ## License
 
-Orbit is available under the MIT license. See the LICENSE file for more info.
+Hobbit is available under the MIT license. See the LICENSE file for more info.
