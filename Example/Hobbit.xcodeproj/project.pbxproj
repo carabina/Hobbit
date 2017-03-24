@@ -18,7 +18,7 @@
 		607FACE51AFB9204008FA782 /* Hobbit_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hobbit_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		733DE5565C1ABE992A0946A2 /* Hobbit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Hobbit.podspec; path = ../Hobbit.podspec; sourceTree = "<group>"; };
+		733DE5565C1ABE992A0946A2 /* Hobbit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Hobbit.podspec; path = ../Hobbit.podspec; sourceTree = "<group>"; };
 		AD0FB4B50457FFCE47B8185D /* Pods-Hobbit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hobbit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Hobbit_Tests/Pods-Hobbit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E8BCF4D0AB250319795C95B5 /* Pods-Hobbit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hobbit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Hobbit_Tests/Pods-Hobbit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

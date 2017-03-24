@@ -1,42 +1,13 @@
-#
-# Be sure to run `pod lib lint Hobbit.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
-  s.name             = 'Hobbit'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of Hobbit.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
-  s.homepage         = 'https://github.com/ed185178837aa0c447ba7f72d19c072d82d062d7/Hobbit'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ed185178837aa0c447ba7f72d19c072d82d062d7' => 'samuel.williams@gmail.com' }
-  s.source           = { :git => 'https://github.com/ed185178837aa0c447ba7f72d19c072d82d062d7/Hobbit.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
-  s.ios.deployment_target = '8.0'
-
-  s.source_files = 'Hobbit/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'Hobbit' => ['Hobbit/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+    s.name             = 'Hobbit'
+    s.version          = '0.1.0'
+    s.summary          = 'Tools for working with bits in Swift'
+    s.homepage         = 'https://github.com/sadawi/Hobbit'
+    s.license          = { :type => 'MIT', :file => 'LICENSE' }
+    s.author           = { 'Sam Williams' => 'samuel.williams@gmail.com' }
+    s.source           = { :git => 'https://github.com/sadawi/Hobbit.git', :tag => s.version.to_s }
+    
+    s.platforms       = { :ios => '9.0' }
+    
+    s.source_files = 'Hobbit/Classes/**/*'
 end
